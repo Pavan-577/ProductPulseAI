@@ -3,3 +3,4 @@ pandas
 plotly
 hindsight-client
 python-dotenv
+reportlab
