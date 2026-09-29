@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+hindsight-client
+python-dotenv

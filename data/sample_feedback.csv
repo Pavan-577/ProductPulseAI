@@ -1,0 +1,11 @@
+feedback_id,customer_id,product,feedback,date
+1,C101,Food Delivery,Delivery was very late,2026-09-25
+2,C102,Food Delivery,Order tracking is not accurate,2026-09-25
+3,C103,Food Delivery,Food arrived cold,2026-09-25
+4,C104,Food Delivery,Delivery was fast and excellent,2026-09-25
+5,C105,Food Delivery,Tracking is not working properly,2026-09-26
+6,C106,Food Delivery,Delivery was late again,2026-09-26
+7,C107,Food Delivery,The app is very easy to use,2026-09-26
+8,C108,Food Delivery,Food arrived cold and late,2026-09-26
+9,C109,Food Delivery,Tracking is now working perfectly,2026-09-27
+10,C110,Food Delivery,Delivery time has improved,2026-09-27
